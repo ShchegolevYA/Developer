@@ -1,4 +1,4 @@
-[![logo](https://github.com/ShchegolevYA/Developer/blob/main/Aleo/Leo/png/Leo_Installation.png)](https://developer.aleo.org/leo)
+[![logo](https://github.com/ShchegolevYA/Developer/blob/main/Aleo/Leo/png/Leo_Installation%231.png)](https://developer.aleo.org/leo)
 
 <div style="text-align: center;">
 
