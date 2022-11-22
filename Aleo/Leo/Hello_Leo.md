@@ -41,7 +41,7 @@ hello/
 ```
 leo run main
 ```
-вывод консоли:
+**вывод консоли:**
 ```
 Leo Compiled 'main.leo' into Aleo instructions
 ⏳ Compiling 'hello.aleo'...
@@ -68,7 +68,7 @@ Leo Compiled 'main.leo' into Aleo instructions
 
 `Program.json` — это файл манифеста `Leo`, который настраивает наш пакет.
 
-`Program.json`
+**Program.json**
 ```
 {
     "program": "hello.aleo",
