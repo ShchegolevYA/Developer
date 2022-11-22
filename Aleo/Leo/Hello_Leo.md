@@ -198,4 +198,5 @@ Leo ✅ Compiled 'main.leo' into Aleo instructions (in "/hello/build/main.aleo")
 
 ## Следующие шаги
 Чтобы узнать больше о языке Leo и его синтаксисе, перейдите [сюда](https://developer.aleo.org/leo/language).
+
 Чтобы узнать больше о том, как использовать Leo CLI, перейдите [сюда](https://developer.aleo.org/leo/commands).
